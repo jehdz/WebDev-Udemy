@@ -1,8 +1,9 @@
-# Flex container link 
+
+# Flex container cheat sheet
 
 <https://darekkay.com/dev/flexbox-cheatsheet.html>
 
-# Flex froggy link 
+# Flex froggy 
 
 <http://flexboxfroggy.com>
 
