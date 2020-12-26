@@ -1,0 +1,10 @@
+html{
+  font-family: 'helvetica', sans-serif;
+}
+
+.ordered-list{
+  list-style-type: upper-roman ;
+}
+.done {
+  text-decoration: line-through;
+}
